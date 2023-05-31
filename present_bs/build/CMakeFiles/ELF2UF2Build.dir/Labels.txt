@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/CMakeFiles/ELF2UF2Build
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/CMakeFiles/ELF2UF2Build.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/chaarumanjuraj/Downloads/assignment2/present_bs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
